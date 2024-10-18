@@ -11,39 +11,39 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */13
-- */1 Readme
-- */2 Basic HTML content
-- */2 Basic CSS styling
-- */2 Advanced feature
-- */3 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 2/2 Basic CSS styling
+- 2/2 Advanced feature
+- 3/3 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+Titles, headers, alt text, images, buttons, text entry, links, forms
 
 
 (b) CSS features
-
+Centering, floating button
 
 
 (c) Advanced features
-
+Floating button
 
 
 3. How long, in hours, did it take you to complete this assignment?
-
+4-5 hours
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
+https://codepen.io/androidcss/pen/yOopGp -> used this in addition to what was provided in class for creating the button itself
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+n/a
 
 
 6. Is there anything special we need to know in order to run your code?
-
+Had problems with images in validator because my images are from my personal computer, they are not hosted publically. 
