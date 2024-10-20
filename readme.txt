@@ -22,11 +22,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-Titles, headers, alt text, images, buttons, text entry, links, forms
+Titles, headers, alt text, images, buttons, text entry, links, forms, sections
 
 
 (b) CSS features
-Centering, floating button
+Centering, floating button, underlining, centering, changing color
 
 
 (c) Advanced features
@@ -39,6 +39,7 @@ Floating button
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 https://codepen.io/androidcss/pen/yOopGp -> used this in addition to what was provided in class for creating the button itself
+https://www.shecodes.io/athena/42420-how-to-change-the-background-color-of-a-webpage-in-html -> learning how to change colors and sections
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
@@ -46,4 +47,4 @@ n/a
 
 
 6. Is there anything special we need to know in order to run your code?
-Had problems with images in validator because my images are from my personal computer, they are not hosted publically. 
+Had problems with images in validator because my images are from my personal computer, they are not hosted publically. There may be issues with my images. 
