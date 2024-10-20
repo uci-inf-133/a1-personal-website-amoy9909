@@ -34,7 +34,7 @@ Floating button
 
 
 3. How long, in hours, did it take you to complete this assignment?
-4-5 hours
+3-4 hours
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
